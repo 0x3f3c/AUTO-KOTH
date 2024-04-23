@@ -11,8 +11,8 @@ Monitoring and Logging: Continuously monitor the system for any unauthorized act
 <h1>Social Engineering:</h1> Employ social engineering tactics to trick other participants into revealing sensitive information or executing malicious actions.
 Brute Force and Password Attacks: Conduct brute force attacks or password guessing attacks to gain access to user accounts or weakly protected services.
 <h>Resource Management:</h> Efficiently manage your resources, such as time, computing power, and network bandwidth, to maximize your effectiveness in the challenge.
-Collaboration and Communication: Collaborate with teammates or other participants, share knowledge and strategies, and communicate effectively to coordinate attacks or defenses.
-Adaptability and Innovation: Be adaptable and innovative in your approach, as the target system may have defenses or countermeasures in place that require creative solutions to overcome.
+<h>Collaboration and Communication:</h> Collaborate with teammates or other participants, share knowledge and strategies, and communicate effectively to coordinate attacks or defenses.
+<h1>Adaptability and Innovation:</h1> Be adaptable and innovative in your approach, as the target system may have defenses or countermeasures in place that require creative solutions to overcome.
 By combining these techniques and strategies with a thorough understanding of the target system and its vulnerabilities, participants can effectively compete in a KoTH Hacker vs. Hacker challenge and strive to maintain control over the target file or system.
 
 
