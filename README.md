@@ -1,3 +1,4 @@
+![14](https://github.com/0x3f3c/AUTO-KOTH/assets/154844497/4cdc24be-994f-4db9-bb79-a5c3f3863278)
 
 In a King of the Hill (KoTH) Hacker vs. Hacker challenge, where participants compete to maintain control over a target system or file, several techniques and strategies can be employed:
 
