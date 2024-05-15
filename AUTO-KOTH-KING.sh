@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while true; do
     echo "HelltakerC3rb" > /root/king.txt
     chattr +ia king.txt
